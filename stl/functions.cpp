@@ -1,0 +1,2 @@
+isalnum()
+tolower()
