@@ -1,2 +1,3 @@
 *.out
 companies/
+.ipynb_checkpoints
